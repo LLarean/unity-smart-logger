@@ -5,7 +5,7 @@
 ![stability-stable](https://img.shields.io/badge/stability-unstable-yellow.svg)
 [![Tests](https://img.shields.io/badge/Tests-NUnit-green.svg)]()
 [![CodeFactor](https://www.codefactor.io/repository/github/llarean/unity-smart-logger/badge)](https://www.codefactor.io/repository/github/llarean/unity-smart-logger)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/llarean/unity-smart-logger/graphs/commit-activity)
+[![Status](https://img.shields.io/badge/Development-Paused-orange)](https://GitHub.com/llarean/unity-smart-logger/graphs/commit-activity)
 
 # **Attention! This is a template that is still being worked on!**
 
